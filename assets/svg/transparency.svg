@@ -1,0 +1,18 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 219 215" width="219" height="215">
+	<title>transparency-svg</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #2780d4;stroke-width: 10 } 
+	</style>
+	<g id="Layer">
+		<path id="Shape 2" class="shp0" d="M2 17C2 8.72 8.72 2 17 2L161 2C169.28 2 176 8.72 176 17L176 158C176 166.28 169.28 173 161 173L17 173C8.72 173 2 166.28 2 158L2 17Z" />
+		<path id="Shape 2 copy" class="shp0" d="M43 57C43 48.72 49.72 42 58 42L202 42C210.28 42 217 48.72 217 57L217 198C217 206.28 210.28 213 202 213L58 213C49.72 213 43 206.28 43 198L43 57Z" />
+		<path id="Shape 3" class="shp0" d="M82 43L44.4 80.6" />
+		<path id="Shape 5" class="shp0" d="M121.75 43.28L45.37 119.38" />
+		<path id="Shape 7" class="shp0" d="M166 42L45 165" />
+		<path id="Shape 8" class="shp0" d="M176 74L74 175" />
+		<path id="Shape 11" class="shp0" d="M176 119L121 174" />
+		<path id="Shape 12" class="shp0" d="M177 122" />
+		<path id="Shape 14" class="shp0" d="M176 148" />
+	</g>
+</svg>
